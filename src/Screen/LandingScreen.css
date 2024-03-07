@@ -1,0 +1,9 @@
+.bg-primary{
+    
+    /* height:100vh; */
+     padding:5rem 20rem;
+     background-color: black;
+     display: flex;
+     flex-direction: column;
+     gap:5rem;
+}

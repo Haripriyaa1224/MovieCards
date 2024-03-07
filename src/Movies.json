@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Tenet",
+        "year": 2020,
+        "director": "Christopher Nolan",
+        "duration": "150 min",
+        "genre": ["Action", "Sci-Fi", "Thriller"],
+        "synopsis": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+        "image_links": [
+          "https://image.tmdb.org/t/p/original/6bBseBvhfnQwWVZUNdyKzDJ2ND7.jpg",
+          "https://wallpapercave.com/wp/wp8512156.jpg"
+        ]
+      },
+      {
+        "title": "Dune",
+        "year": 2021,
+        "director": "Denis Villeneuve",
+        "duration": "155 min",
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "synopsis": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+        "image_links": [
+          "https://dunenewsnet.com/wp-content/uploads/2021/08/Dune-Movie-Main-Poster.jpg",
+          "https://wallpapers.com/images/hd/dune-2021-characters-61978zuxwgi641th.jpg"
+        ]
+      },
+      {
+        "title": "Interstellar",
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "duration": "169 min",
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "image_links": [
+          "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/08/19085635/gEU2QniE6E77NI6lCU6MxlNBvIx-scaled.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8d8f28105415493.619ded067937d.jpg"
+        ]
+      },
+      {
+        "title": "The Midnight Sky",
+        "year": 2020,
+        "director": "George Clooney",
+        "duration": "118 min",
+        "genre": ["Drama", "Fantasy", "Sci-Fi"],
+        "synopsis": "This post-apocalyptic tale follows Augustine, a lonely scientist in the Arctic, as he races to stop Sully and her fellow astronauts from returning home to a mysterious global catastrophe.",
+        "image_links": [
+          "https://i1.wp.com/breezyafternoons.com/wp-content/uploads/2020/12/midnight-sky-movie.jpg?fit=600%2C500&ssl=1&is-pending-load=1",
+          "https://deadline.com/wp-content/uploads/2020/12/Midnight-Sky-2.jpg"
+        ]
+      },
+      {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "148 min",
+        "genre": ["Action", "Adventure", "Sci-Fi"],
+        "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "image_links": [
+          "https://www.aceshowbiz.com/images/still/inception_poster01.jpg",
+          "https://i.pinimg.com/originals/a6/cd/36/a6cd360aad592edcc110f3e9495b6d2a.jpg"
+        ]
+      },
+    {
+      "title": "Jurassic Park",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "duration": "127 min",
+      "genre": ["Adventure", "Sci-Fi"],
+      "synopsis": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "image_links": [
+        "https://image.tmdb.org/t/p/original/7xpRzGR4jXLTXdjfFBtdE4OboJr.jpg",
+        "https://i.redd.it/bk07amwxdt841.jpg"
+      ]
+    },
+    {
+      "title": "The Conjuring",
+      "year": 2013,
+      "director": "James Wan",
+      "duration": "112 min",
+      "genre": ["Horror", "Mystery", "Thriller"],
+      "synopsis": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "image_links": [
+        "https://image.tmdb.org/t/p/original/bMJ62JuWMRIYFeLQ8Ffypy0qrwu.jpg",
+        "https://www.alternateending.com/wp-content/uploads/2013/07/eE92xw3ejecgFgJlHPkHFcT5dBs.jpg"
+      ]
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "director": "Jordan Peele",
+      "duration": "104 min",
+      "genre": ["Horror", "Mystery", "Thriller"],
+      "synopsis": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      "image_links": [
+        "https://image.tmdb.org/t/p/original/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+        "https://wallpapercave.com/wp/wp4062217.jpg"
+      ]
+    },
+    {
+      "title": "The Babadook",
+      "year": 2014,
+      "director": "Jennifer Kent",
+      "duration": "93 min",
+      "genre": ["Drama", "Horror", "Mystery"],
+      "synopsis": "A widowed mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+      "image_links": [
+        "https://halloweenlove.com/images/posts/babadook-poster.jpg",
+        "https://flxt.tmsimg.com/assets/p10644326_p_v10_aa.jpg"
+      ]
+    }
+  ]
+  
